@@ -15,7 +15,7 @@ import org.testng.annotations.BeforeTest;
 
 import POM_Repo.HomePage;
 import POM_Repo.LoginPageEx;
-//pulled
+
 public class BaseClass {
 
 	public WebDriver driver;
